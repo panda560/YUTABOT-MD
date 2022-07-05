@@ -1,8 +1,8 @@
 let fs = require('fs')
 
-global.kontak = ['17608914335'] //Jangan Sembarang Ganti 
-global.owner = ['17608914335','62895612153565'] // Put your number here
-global.linkGC = ['https://chat.whatsapp.com/EZT51mPq69162pfM3afL1h'] // ganti jadi group lu
+global.kontak = ['6281273677810'] //Jangan Sembarang Ganti 
+global.owner = ['6281273677810','84796102942'] // Put your number here
+global.linkGC = ['https://chat.whatsapp.com/C6ahuoDnxXh9zbDnw9wYrb'] // ganti jadi group lu
 global.mods = [] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json'))
 global.APIs = { // API Prefix
@@ -32,11 +32,11 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'Yuta Multi device'
-global.author = 'Yuta'
+global.packname = 'Pratama Multi device'
+global.author = 'M.A.F.PRATAMA'
 global.email = 'fahriadison12@gmail.com'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wm = '© Yuta MD\nSupported By Nekopoi.care\nMade By ẉa.me/.Yuuta-Togashi(Papah-Chan)'
+global.wm = '© Pratama MD\nSupported By Nekopoi.care\nMade By ẉa.me/6281273677810 .PRATAMA-MD(M.A.F.PRATAMA)'
 global.media = 'https://api.lolhuman.xyz/api/textprome2/glitch?apikey=Deffbotz&text1=YutaBotzMD&text2=Using%20Multi%20Device'
 
 global.wait = '_*tunggu sedang di proses...*_'
